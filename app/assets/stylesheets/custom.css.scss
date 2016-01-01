@@ -1,9 +1,32 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-body {
 
-background: #abbaab; /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #abbaab , #ffffff); /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #abbaab , #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+.navbar-header{
+     font-family: 'Yesteryear', cursive;
+     font-size: 35px;
+
+}
+h1{
+    font-size: 69px;
+}
+div.c-wrapper{
+    width: 100%; /* for example */
+    height: 800px;
+    margin: auto;
+}
+
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+max-width: 100%; /* use this, or not */
+height: auto;
+margin: auto;
+
+}
+ .title-text{
+     font-family: 'Yesteryear', cursive;
+ }
+
+body {
+background: #000000
 }

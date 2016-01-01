@@ -8,7 +8,9 @@ gem 'sqlite3'
 
 #use bootstrap library for styles
 gem 'bootstrap-sass','3.3.1'
-
+#use blueimp for gallery
+gem "blueimp-gallery"
+gem 'Bootstrap-Image-Gallery-rails'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
