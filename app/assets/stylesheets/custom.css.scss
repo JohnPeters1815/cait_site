@@ -8,6 +8,7 @@
 
 }
 h1{
+    color: #9D9D9D;
     font-size: 69px;
 }
 div.c-wrapper{
@@ -16,15 +17,44 @@ div.c-wrapper{
     margin: auto;
 }
 .carousel-caption{
-    background-color: rgba(41,41,41,0.7);
-    
+    background-color: rgba(41,41,41,0.65);
+    padding: 5px;
+    margin: 5px;
 }
 .about-me{
+    color: #9D9D9D;
     font-family: 'Yesteryear', cursive;
 }
 .summary-name{
+    color: #9D9D9D;
     font-family: 'Yesteryear', cursive;
     
+}
+.summary-intro{
+    color: #9D9D9D;
+    
+}
+.summary{
+    color: #9D9D9D;
+}
+
+p{
+    color: #9D9D9D;
+}
+ h2{
+        color: #9D9D9D;
+    }
+h3{
+    color: #9D9D9D;
+}
+
+h4{
+    color: #9D9D9D;
+}
+.about-img{
+    margin: auto;
+    max-width: 100%;
+    height: auto;
 }
 .carousel-inner > .item > img, 
 .carousel-inner > .item > a > img{
@@ -34,9 +64,11 @@ margin: auto;
 
 }
  .title-text{
+     color: #9D9D9D;
      font-family: 'Yesteryear', cursive;
  }
 
 body {
-background: #000000
+    font-color: #9D9D9D;
+    background: #222222;
 }
